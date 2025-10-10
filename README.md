@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Bartlomiej GRZADZIEL
 
-<!--
-**Bartaaaaa/Bartaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** – recently graduated from **UTC (Université Technologique de Compiègne)**  
+💻 Specialized in **Web Development**  
+🌏 Passionate about **fullstack development**, data projects, and working in international environments  
+🚀 Goal: To become a **Tech Lead**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** TypeScript, PHP, Java, Google Apps Script, Python, C/C++, R, SQL  
+- **Backend:** Spring Boot, Symfony, Node.js, REST API  
+- **Frontend:** Angular, React Native, Tailwind CSS  
+- **Databases:** PostgreSQL, MySQL, MongoDB, NocoDB  
+- **CMS:** Drupal, Prismic  
+- **Tools & Platforms:** Git, IntelliJ IDEA, VS Code, JIRA, Confluence, Airtable, Figma, Microsoft Office, n8n  
+
+---
+
+## 📌 Featured Projects
+
+### 💰 [Mini-Portfolio](https://github.com/orgs/qsb-mini-portfolio/repositories)
+A full-stack personal finance dashboard that aggregates, analyzes, and visualizes your investment transactions and portfolio performance in real time. Built with **Java, Spring Boot, and Angular**.
+
+### 📊 [Candidate Style Website](https://github.com/Bartaaaaa/SR10_Projet)
+A platform that allows companies to post job offers and candidates to apply for them. Built with **fullstack technologies** to manage applications efficiently.
+
+### 🎮 [Schotten-Totten Game](https://github.com/Bartaaaaa/Schotten-Totten-Game_)
+A C++ board game including **terminal UI**, AI opponent, and multiplayer mode. Focused on algorithmic gameplay and interactive features.
+
+---
+
+## 🌍 International Experience
+
+- 🇲🇽 **Tec de Monterrey** – 4 months exchange semester  
+- ✈️ Recent travels: Mexico, Guatemala, Poland, Romania, Italy  
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/bgrzadziel](https://www.linkedin.com/in/bgrzadziel/)  
+- **GitHub:** [github.com/Bartaaaaa](https://github.com/Bartaaaaa)  
+
+⭐️ Feel free to explore my repositories, open an issue, or reach out to collaborate on tech or international projects!
