@@ -24,10 +24,10 @@
 A full-stack personal finance dashboard that aggregates, analyzes, and visualizes your investment transactions and portfolio performance in real time. Built with **Java, Spring Boot, and Angular**.
 
 ### 📊 [Candidate Style Website](https://github.com/Bartaaaaa/SR10_Projet)
-A platform that allows companies to post job offers and candidates to apply for them. Built with **fullstack technologies** to manage applications efficiently.
+A platform that allows companies to post job offers and candidates to apply for them. Built with NodeJs, and designed on Figma.
 
 ### 🎮 [Schotten-Totten Game](https://github.com/Bartaaaaa/Schotten-Totten-Game_)
-A C++ board game including **terminal UI**, AI opponent, and multiplayer mode. Focused on algorithmic gameplay and interactive features.
+A C++ board game including **terminal UI**, AI opponent, and multiplayer mode. 
 
 ---
 
