@@ -18,7 +18,7 @@ Goal: To become a **Tech Lead**
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 💰 [Mini-Portfolio](https://github.com/orgs/qsb-mini-portfolio/repositories)
 A full-stack personal finance dashboard that aggregates, analyzes, and visualizes your investment transactions and portfolio performance in real time. Built with **Java, Spring Boot, and Angular**.
@@ -43,4 +43,4 @@ A C++ board game including **terminal UI**, AI opponent, and multiplayer mode.
 - **LinkedIn:** [linkedin.com/in/bgrzadziel](https://www.linkedin.com/in/bgrzadziel/)  
 - **GitHub:** [github.com/Bartaaaaa](https://github.com/Bartaaaaa)  
 
-⭐️ Feel free to explore my repositories, open an issue, or reach out to collaborate on tech or international projects!
+Feel free to explore my repositories, open an issue, or reach out to collaborate on tech or international projects!
