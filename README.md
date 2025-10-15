@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Bartlomiej GRZADZIEL
+# Hi, I’m Bartlomiej GRZADZIEL
 
 🎓 **Software Engineer** – recently graduated from **UTC (Université Technologique de Compiègne)**  
-💻 Specialized in **Web Development**  
-🌏 Passionate about **fullstack development**, data projects, and working in international environments  
-🚀 Goal: To become a **Tech Lead**
+Specialized in **Web Development**  
+Passionate about **fullstack development**, data projects, and working in international environments  
+Goal: To become a **Tech Lead**
 
 ---
 
