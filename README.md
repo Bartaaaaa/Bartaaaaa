@@ -11,7 +11,7 @@ Goal: To become a **Tech Lead**
 
 - **Languages:** TypeScript, PHP, Java, Google Apps Script, Python, C/C++, R, SQL  
 - **Backend:** Spring Boot, Symfony, Node.js, REST API  
-- **Frontend:** Angular, React Native, Tailwind CSS  
+- **Frontend:** Angular, Django, React Native, Tailwind CSS  
 - **Databases:** PostgreSQL, MySQL, MongoDB, NocoDB  
 - **CMS:** Drupal, Prismic  
 - **Tools & Platforms:** Git, IntelliJ IDEA, VS Code, JIRA, Confluence, Airtable, Figma, Microsoft Office, n8n  
